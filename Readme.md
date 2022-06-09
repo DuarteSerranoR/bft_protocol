@@ -1,4 +1,5 @@
 Options:
+ - HotStuff
  - Zyzzyva - most throughput
  - MinZyzzyva
  - Spinning
